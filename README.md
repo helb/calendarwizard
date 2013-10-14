@@ -13,7 +13,7 @@ Some additional holiday files for [Adobe InDesign Calendar Wizard](http://calend
 * cz.ostatni.holidays – other labor-free days in Czech Repoublic
 * cz.statni.holidays  – Czech national holidays
 * cz.svatky.holidays  – Czech name days
-* cz.velikonoce2013.holidays – Easter Monday 2013
+* cz.velikonoce201?.holidays – Easter Monday
 
 ## License
 This program is free software. It comes without any warranty, to the extent permitted by applicable law. You can redistribute it and/or modify it under the terms of the **Do What The Fuck You Want To Public License**, Version 2, as published by Sam Hocevar. See [COPYING](http://sam.zoy.org/wtfpl/COPYING) for more details.
