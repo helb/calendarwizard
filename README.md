@@ -10,9 +10,9 @@ Some additional holiday files for [Adobe InDesign Calendar Wizard](http://calend
 4. Wait, it takes some time…
 
 ## List
-* cz.ostatni.holidays – other labor-free days in Czech Republic
 * cz.statni.holidays  – Czech national holidays
 * cz.svatky.holidays  – Czech name days
+* cz.ostatni.holidays – other labor-free days in the Czech Republic
 * cz.velikonoce201?.holidays – Easter Monday
 
 ## License
